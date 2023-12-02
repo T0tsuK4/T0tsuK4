@@ -7,7 +7,7 @@ Bem-vindo ao meu Domínio Cibernético! 👾 Eu sou **T0tsuK4**, um Cybersecurit
 
 ## Sobre Mim
 
-- 💻 Atuo como **Red Team** na **Sentry Security**.
+- 💻 Atuo como **Red Team** na **[SentrySecurity](https://instagram.com/security.sentry?igshid=NGVhN2U2NjQ0Yg==)**.
 - 🔐 Iniciante em **Pentest** e **Offensive Security**.
 - 🎓 Estudante de **Defesa Cibernética**.
 - 🌐 Compartilho conhecimento em eventos de segurança e conferências.
