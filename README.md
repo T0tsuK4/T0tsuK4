@@ -5,6 +5,9 @@
 
 Bem-vindo ao meu Domínio Cibernético! 👾 Eu sou **T0tsuK4**, um Cybersecurity Analyst em constante evolução, especializando em Pentest e Red Team. Aqui está o código-fonte da minha jornada para moldar o futuro das defesas digitais contra ameaças cibernéticas.
 
+## Sentry Security
+
+<img src="https://www.shutterstock.com/image-vector/access-control-fingerprint-security-cybersecurity-600nw-2274134989.jpg" alt="Sentry Security">
 ## Sobre Mim
 
 - 💻 Atuo como **Red Team** na **[SentrySecurity](https://instagram.com/security.sentry?igshid=NGVhN2U2NjQ0Yg==)**.
