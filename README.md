@@ -23,9 +23,6 @@ Bem-vindo👾 Eu sou **Raul**, um Cybersecurity Analyst em constante evolução,
 - 🌐 **Segurança Web**: Proteção contra ataques como SQL Injection e Cross-Site Scripting.
 - 🔐 **Criptografia**: Implementação de soluções para proteger dados sensíveis.
 - 🚀 **Ataques**: Desenvolvimento de estratégias.
-- 🛡️ **Segurança em Nuvem**: Proteção de ambientes em nuvem contra ameaças modernas.
-- 🤖 **IA para Segurança**: Aplicação de Inteligência Artificial para detecção de anomalias.
-- 📡 **IoT Security**: Garantia da segurança em dispositivos da Internet das Coisas.
 
 ## Estatísticas do GitHub
 
