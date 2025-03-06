@@ -1,32 +1,49 @@
 <!-- Início do README.md Futuristic Cybersecurity -->
 
-# Raul | Cybersecurity Analyst 🛡️ ⚔️
+### 👋 Olá, eu sou o Raul!
 
+🚀 **Desenvolvedor Full Stack | Java & Spring Boot**
 
-Bem-vindo👾 Eu sou **Raul**, um Cybersecurity Analyst em constante evolução, especializando em Pentest e Red Team. Aqui está a minha jornada para moldar o futuro das defesas digitais contra ameaças cibernéticas.
+---
 
-## Sobre Mim
+💡 Apaixonado por tecnologia, engenharia de software e boas práticas de desenvolvimento. Tenho experiência com **arquitetura de sistemas**, **desenvolvimento backend** e **soluções escaláveis**. Meu foco é criar código limpo, reutilizável e eficiente.
 
-- 🔐 Iniciante em **Pentest** e **Offensive Security**.
-- 🎓 Estudante de **Defesa Cibernética**.
-- 🌐 Compartilho conhecimento em eventos de segurança e conferências.
+🔹 **Principais Tecnologias:**
 
-### Conecte-se comigo
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code> **Java**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/></code> **Spring Boot**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code> **MySQL**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code> **PostgreSQL**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code> **Docker**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/></code> **Kubernetes**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg"/></code> **AWS**  
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code> **Git & GitHub**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](linkedin.com/in/raul-fernandes-138a631a7)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-000?style=for-the-badge&logo=tryhackme&logoColor=E94D5F)](https://tryhackme.com/p/T0tsuK4)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-000?style=for-the-badge&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/T0tsuK4)
+🔹 **Habilidades de Desenvolvimento:**
+- ✅ Arquitetura de Software
+- ✅ Microsserviços
+- ✅ APIs RESTful
+- ✅ Testes Automatizados (JUnit, Mockito)
+- ✅ Design Patterns & SOLID
+- ✅ CI/CD com GitHub Actions, Jenkins
+- ✅ Monitoramento e Logging (Prometheus, ELK Stack)
+- ✅ Segurança em Aplicações Web
 
-## Habilidades
+---
 
-- ⚔️ **Pentest & Red Team**: Simulações realistas para identificar e corrigir vulnerabilidades.
-- 🌐 **Segurança Web**: Proteção contra ataques como SQL Injection e Cross-Site Scripting.
-- 🔐 **Criptografia**: Implementação de soluções para proteger dados sensíveis.
-- 🚀 **Ataques**: Desenvolvimento de estratégias.
+📌 **O que você vai encontrar aqui?**
+- 🔹 Projetos em **Java & Spring Boot**
+- 🔹 Implementações de **Design Patterns**
+- 🔹 Soluções para **Arquitetura de Software**
+- 🔹 Scripts e automações para **DevOps**
 
-## Estatísticas do GitHub
+---
 
-![T0tsuK4 GitHub stats](https://github-readme-stats.vercel.app/api?username=T0tsuK4&bg_color=112&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=T0tsuK4&layout=compact&bg_color=112&show_icons=true&theme=hacker)
+📫 **Contato & Redes**
+
+💼 [LinkedIn](linkedin.com/in/raul-fernandes-138a631a7)  
+📧 **Email:** raulfs.melo@gmail.com  
+
+⚡ Sempre em busca de novos desafios e aprendizados! 🚀
 
 <!-- Fim do README.md Futuristic Cybersecurity -->
